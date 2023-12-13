@@ -1,0 +1,18 @@
+Un registro es una fila con campos separados en columnas q definen sus carcteristicas
+Una lista de registros representa una tabla
+Todas las tablas dentro de la DB contienen datos relacionados entre si
+DBMS (database management system): Sistema de gestionde base de datos ejemplos: Microsoft SQL Server, MySQL, PostgreSQL
+SQL es un lenguaje diseñado para manipular y comunicarse con informacion almacenada en bass de datos relacionales
+Integra en su sintaxis:
+	Lengauje de Definicion de Datos: LDD
+	Lenguaje de Manipulacion de Datos: LMD
+	Lenguaje de Control d eDatos: LCD
+
+###MySQL
+root
+pass: MySQL.2023
+user: admin
+pass: MySQL.2023
+
+CREATE: para crear DB, tablas, etc
+DROP: Para eliminar DB, tablas, etc
